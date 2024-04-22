@@ -15,7 +15,7 @@ import requests
 import json
 
 FM4_API = "http://audioapi.orf.at/fm4/json/2.0/broadcasts/"
-DOWNLOAD_URL = "http://loopstream01.apa.at/?channel=fm4&id="
+DOWNLOAD_URL = "http://loopstreamfm4.apa.at/?channel=fm4&id="
 
 
 @route("/")
